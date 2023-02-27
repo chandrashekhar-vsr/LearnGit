@@ -1,0 +1,15 @@
+step1:  create a github account
+step2:  go the github repo link and click on green button (code)
+step3:  copy the link
+step4:  open the terminal and navigate the folder where repo is to be cloned
+step5:  type->  git clone then space and paste link
+step6:  open the repo from vs code ... current branch name of repo is main ...see the left bottom corner
+
+
+It's a practice to push changes directly to the main branch
+
+step1: click on git-change icon in vs code and go to option 'branch'
+step2: then go to 'create branch' option
+
+
+see this youtube : https://www.youtube.com/watch?v=eLmpKKaQL54
